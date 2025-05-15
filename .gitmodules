@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:banguense/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:banguense/frontend.git
+[submodule "devops"]
+	path = devops
+	url = git@github.com:banguense/devops.git
