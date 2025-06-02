@@ -1,6 +1,6 @@
 ## Ambiente para processamento paralelo e distribuído em contêineres 
 Este respositório agrupa os respositórios necessários para a configuração e execução do meu trabalho de conclusão de curso.
-
+[Relatório](https://drive.google.com/file/d/1UB2EZ1kENSQaQ6L3jCuwzog4L10oQKy_/view)
 ### Setup
 
 O primeiro passo para executar este projeto é ter disponível algumas máquinas rodando Ubuntu Server 22.04 ligadas em rede. Neste projeto foi usado um cluster disponibilizado pela UFPEL. As configurações das máquinas são as seguintes:
@@ -29,7 +29,7 @@ O projeto utiliza 4 máquinas, mas isso pode ser extendido de forma fácil. A pr
 
 Após a instalação das dependências, prossiga com a configuração do MicroK8s
 na máquina designada como manager. Primeiro é necessário que acesse o repositório
-[devops](./devops/). Em seguida, execute o seguinte script que se encontra dentro do repositório:
+[devops](https://github.com/banguense/devops)Em seguida, execute o seguinte script que se encontra dentro do repositório:
 
 ```sh 
 ./ config_microk8s.sh
