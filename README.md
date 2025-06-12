@@ -3,7 +3,7 @@ Este respositório agrupa os respositórios necessários para a configuração e
 [Monografia](https://drive.google.com/file/d/1UB2EZ1kENSQaQ6L3jCuwzog4L10oQKy_/view)
 ### Setup
 
-O primeiro passo para executar este projeto é ter disponível algumas máquinas rodando Ubuntu Server 22.04 ligadas em rede. Neste projeto foi usado um cluster disponibilizado pela UFPEL. As configurações das máquinas são as seguintes:
+O projeto pode ser executado somente em uma máquina, mas foi projetado para ser executado em um cluster de pelo menos duas máquinas. Oprimeiro passo para executar este projeto é ter disponível pelo menos duas máquinas rodando Ubuntu Server 22.04 ligadas em rede. Neste projeto foi usado um cluster disponibilizado pela UFPEL. As configurações das máquinas são as seguintes:
 - Intel Core i5 de 3a geração
 - 16 GB de memória RAM
 - SSDs de 128 GB.
